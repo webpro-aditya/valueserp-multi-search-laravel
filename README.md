@@ -16,7 +16,7 @@
 
 ### 1. Clone Repo:
 ```bash
-git clone https://github.com/yourusername/valueserp-multi-search-laravel.git
+git clone https://github.com/webpro-aditya/valueserp-multi-search-laravel.git
 cd valueserp-multi-search-laravel
 ```
 
