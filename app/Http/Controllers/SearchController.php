@@ -80,6 +80,9 @@ class SearchController extends Controller
 
     /**
      * Export the search results stored in session as a CSV file.
+     * 
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\RedirectResponse
      */
     public function export(Request $request)
     {
