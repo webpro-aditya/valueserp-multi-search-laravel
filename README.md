@@ -71,6 +71,6 @@ Visit: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 ## ⚠️ Note:
 
 - Replace `your_real_or_test_key_here` in `.env` with an actual [ValueSERP API key](https://valueserp.com/) (**FREE trial available**).  
-- Tested using **Laravel 12.15.0** and **PHP 8.2.0**.  
+- Tested using **Laravel 12.15.0** and **PHP 8.2.0** and **Composer 2.6.5**.  
 
 ---
