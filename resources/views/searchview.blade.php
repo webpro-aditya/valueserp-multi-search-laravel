@@ -44,6 +44,7 @@
                 },
                 error: function() {
                     $('.spinner').hide();
+                    $('.spinner-backdrop').hide();
                     toastr.error('No results found or an error occurred.');
                     $('#results').html('');
                 }
@@ -91,6 +92,7 @@
                 },
                 error: function() {
                     $('.spinner').hide();
+                    $('.spinner-backdrop').hide();
                     toastr.error('Error exporting data.');
                 }
             });
